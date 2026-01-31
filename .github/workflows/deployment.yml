@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  S3_BUCKET: "harryalice"
+  S3_BUCKET: "harry"
 
 permissions:
   contents: read
